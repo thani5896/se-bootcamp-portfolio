@@ -11,7 +11,7 @@
 | Name | THANISON PANICHAPHOL |
 | Nickname | YOK |
 | Program | Software Engineering, RMUTL |
-| Background |  |
+| Background | จบประกาศนียบัตรวิชาชีพชั้นสูงจากวิทยาลัยเทคโนโลยีโปลิเทคนิคลานนา เชียงใหม่ |
 | Interest | Web / Mobile / AI / Game / IoT / Data / UX/UI / ยังไม่แน่ใจ |
 | Goal | มีทักษะการพัฒนาซอฟต์แวร์ให้สามารถทำงานในสายอาชีพ|
 
@@ -26,19 +26,21 @@
 ## 📚 What I Learned
 
 ### Day 01: Digital Foundation
-- 
+- เข้าใจแนวคิดการทำงานของระบบคอมพิวเตอร์
 
 ### Day 02: Logic & Flowgorithm Lab 1
-- 
+- ฝึกออกแบบผังงานด้วย Flowgorithm
+- เข้าใจลำดับการทำงานของโปรแกรม
 
 ### Day 03: Flowgorithm Lab 2–3
-- 
+- ออกแบบอัลกอริทึมเพื่อแก้ปัญหาอย่างเป็นขั้นตอน
+- พัฒนาทักษะการวิเคราะห์ปัญหา
 
 ### Day 04: AI, Web Technology and Network
-- 
+- เรียนรู้การประยุกต์ใช้ AI ในการทำงาน
 
 ### Day 05: GitHub and Developer Tools
-- 
+- เรียนรู้การใช้งาน Git และ GitHub
 
 ---
 
@@ -60,7 +62,7 @@
 - ช่วยอธิบายแนวคิดการเขียนโปรแกรม
 
 ### Prompt ที่ฉันใช้
-```อธิบายการทำงานของ Loop ใน Flowgorithm พร้อมยกตัวอย่าง
+```text อธิบายการทำงานของ Loop ใน Flowgorithm พร้อมยกตัวอย่าง
 
 ```
 
@@ -78,7 +80,7 @@
 
 | Tool | Used for | Confidence |
 |---|---|---|
-| VS Code | แก้ไข README.md | ⭐ |
+| VS Code | แก้ไข README.md | ⭐⭐ |
 | Command Prompt | ใช้ Git command | ⭐ |
 | Git | บันทึก commit | ⭐ |
 | GitHub | แสดง portfolio ออนไลน์ | ⭐ |
