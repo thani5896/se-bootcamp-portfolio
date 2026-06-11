@@ -48,10 +48,10 @@
 
 | Lab | What I Learned | Status |
 |---|---|---|
-| Pass / Fail | | ☐ |
-| Grade Calculator | | ☐ |
-| Average Score | | ☐ |
-| Loop Practice | | ☐ |
+| Pass / Fail | การใช้เงื่อนไขเพื่อตรวจสอบข้อมูล | ☐ |
+| Grade Calculator | การคำนวณเกรดด้วยเงื่อนไขหลายระดับ | ☐ |
+| Average Score | การรับข้อมูลและคำนวณค่าเฉลี่ย | ☐ |
+| Loop Practice | การใช้ลูปเพื่อทำงานซ้ำอย่างมีประสิทธิภาพ | ☐ |
 
 ---
 
@@ -62,7 +62,7 @@
 - ช่วยอธิบายแนวคิดการเขียนโปรแกรม
 
 ### Prompt ที่ฉันใช้
-```text อธิบายการทำงานของ Loop ใน Flowgorithm พร้อมยกตัวอย่าง
+``` - อธิบายการทำงานของ Loop ใน Flowgorithm พร้อมยกตัวอย่าง
 
 ```
 
